@@ -27,7 +27,7 @@ I have a considerable amount of experience as an IT Systems Consultant, especial
 | **AWS Certified Cloud Practitioner** by Amazon Web Services | <a href="https://www.credly.com/badges/1ece87a9-3bb3-400b-b746-a42801f3ef5d/public_url"><img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" /></a> |
 | **Microsoft Certified: Azure Fundamentals**   | <a href="https://learn.microsoft.com/api/credentials/share/en-us/OleksiiNazarenko-1361/B5F7E42F375241E7?sharingId=C835D4F06C998F1A"><img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" /></a> |
 | **Google IT Support Professional Certificate** | <a href="https://coursera.org/share/7a1ad3816841d0ba46a0ac2abb9ae762"><img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional%20Certificate-006400?&style=for-the-badge&logoColor=white" /></a> |
-| **Google Cybersecurity Professional Certificate** | <a href="https://coursera.org/share/7a1ad3816841d0ba46a0ac2abb9ae762"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-006400?&style=for-the-badge&logoColor=white" /></a> |
+| **Google Cybersecurity Professional Certificate** | <a href="https://coursera.org/share/2cca12daace0af28ee65905f21aa7739"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-006400?&style=for-the-badge&logoColor=white" /></a> |
 
 
 
