@@ -8,6 +8,7 @@
 
 ## I am an aspiring IT technologist.
 ## My interests lie in:
+- <b>IoT, Arduino, Elektrotechnik
 - <b>Linux System Administration
 - <b>DevOps
 - <b>Cybersecurity
