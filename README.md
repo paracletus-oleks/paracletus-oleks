@@ -60,5 +60,5 @@ I have a considerable amount of experience as an IT Systems Consultant, especial
 
 
 ## Projects
+- <b> **Arduino**
 - <b> **Bash Scripts**   ---->   https://github.com/paracletus-oleks/bash-scripts.git </b>
-- Placeholder
