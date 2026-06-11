@@ -17,7 +17,9 @@
 I have a considerable amount of experience as an IT Systems Consultant, especially in procurement/selling of IT goods and services.
 <br>Now, I am transitioning to a more technical side of IT.
 
-
+## Projects
+- <b> **Arduino Starter Kit**   -----> https://github.com/paracletus-oleks/arduino-starter-kit </b>
+- <b> **Bash Scripts**   ---->   https://github.com/paracletus-oleks/bash-scripts.git </b>
 
 
 ## Certifications
@@ -59,6 +61,4 @@ I have a considerable amount of experience as an IT Systems Consultant, especial
 
 
 
-## Projects
-- <b> **Arduino**
-- <b> **Bash Scripts**   ---->   https://github.com/paracletus-oleks/bash-scripts.git </b>
+
